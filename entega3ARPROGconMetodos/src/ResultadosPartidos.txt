@@ -1,0 +1,12 @@
+1;1;Argentina;1;2;Arabia Saudita
+2;1;Polonia;0;0;México
+3;1;Argentina;2;0;México
+4;1;Arabia Saudita;0;2;Polonia
+5;2;Arabia Saudita;1;2;México
+6;2;Polonia;0;2;Argentina
+7;2;Croacia;0;0;Belgica
+8;2;Canada;1;2;Marruecos
+9;3;Japón;2;1;España
+10;3;Costa Rica;2;4;Alemania
+11;3;Corea del Sur;2;1;Portugal
+12;3;Ghana;0;2;Uruguay
